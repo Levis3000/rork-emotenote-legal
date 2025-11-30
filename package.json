@@ -1,0 +1,10 @@
+{
+  "name": "sixtysec-legal-pages",
+  "version": "1.0.0",
+  "description": "Static legal pages for SixtySec app",
+  "scripts": {
+    "start": "bunx serve -l tcp://0.0.0.0:$PORT ."
+  },
+  "dependencies": {}
+}
+
