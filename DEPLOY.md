@@ -41,3 +41,4 @@ Use the Privacy Policy URL in App Store Connect:
 https://[your-railway-url]/privacy-policy.html
 ```
 
+
